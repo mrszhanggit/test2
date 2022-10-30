@@ -7,4 +7,5 @@ func main() {
 	fmt.Println("2222222")
 	fmt.Println("9999999")
 	fmt.Println("101010")
+	fmt.Println("121212")
 }
